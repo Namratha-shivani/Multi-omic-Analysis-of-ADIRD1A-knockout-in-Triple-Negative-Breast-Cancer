@@ -27,7 +27,7 @@ expression.
 - RNA-seq downstream analysis included differential gene expression analysis and functional enrichment analysis using DESeq2 and clusterProfiler, respectively. Finally, peaks were intersected between ChIP-seq and ATAC-seq experiments and further intersected with RNA-seq data.
 
 <p align="center">
-  <img src="images/workflow.png" width="300" height="400" alt="Alt Text">
+  <img src="images/workflow.png" width="300" height="300" alt="Alt Text">
 </p>
 
 ## REFERENCES
