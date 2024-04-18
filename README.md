@@ -21,3 +21,11 @@ expression.
 
 ## METHODS
 
+- The study utilized high-throughput sequencing data from ARID1A knockout MDA-MB-231 cells, obtained from NCBI GEO dataset GSE234179. This dataset comprised 20 ChIP-seq samples, 10 ATAC-seq samples, and 6 RNA-seq samples. Initial processing involved quality checking and trimming of raw reads, followed by alignment to the reference genome (hg38). 
+- ChIP-seq and ATAC-seq analyses involved biological quality control, peak calling, peak annotation, and differential peak analysis. Additionally, peaks were intersected between ATAC and ChIP experiments, followed by intersection with RNA-seq data. Visualization was performed using Integrated Genome Browser (IGV). 
+- ATAC-seq analysis involved replicates of knockout and control samples, with peaks annotated using Homer's functions. 
+- RNA-seq downstream analysis included differential gene expression analysis and functional enrichment analysis using DESeq2 and clusterProfiler, respectively. Finally, peaks were intersected between ChIP-seq and ATAC-seq experiments and further intersected with RNA-seq data.
+
+<p align="center">
+  <img src="images/ChIP-seq.png" width="300" height="400" alt="Alt Text">
+</p>
