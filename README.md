@@ -5,14 +5,14 @@ Tripe negative breast cancer (TNBC) is defined as the tumor that lacks the recep
 **ChIP-seq** is a sequencing technology which is used to map the DNA-binding proteins and histone modifications. The ChIP antibodies target a specific protein of interest and attaches to them, which enriches the DNA fragments bound to those proteins [3]. The DNA fragments which contain the protein of interest are extracted and amplified and sequence to study the effects.
 
 <p align="center">
-  <img src="images/ChIP-seq1.png" width="400" height="300" alt="Alt Text">
+  <img src="images/ChIP-seq2.png" width="300" height="300" alt="Alt Text">
 </p>
 
 Mammalian DNA is highly condensed through nucleosome which wraps into chromatin which leads into chromosome. Chromatin is mainly made of DNA and protein and dynamically switches between active euchromatin (loosely bound and easily accessible by TF) and inactive heterochromatin (Tightly bound). The interplay between nucleosome, chromatin, and chromosome
 play an important role in gene regulation. **ATAC-seq** studies the chromatin accessibility by incorporating genetically altered Tn5 transposase that cuts open chromatin and ligates adapters [4].
 
 <p align="center">
-  <img src="images/ATAC-seq.png" width="400" height="300" alt="Alt Text">
+  <img src="images/ATAC-seq.png" width="300" height="300" alt="Alt Text">
 </p>
 
 In this project integration of ATAC-seq, ChIP-seq and RNA-seq analysis was performed in the context of ARID1A knockout versus control samples to understand the mechanisms of gene
