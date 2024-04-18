@@ -27,5 +27,12 @@ expression.
 - RNA-seq downstream analysis included differential gene expression analysis and functional enrichment analysis using DESeq2 and clusterProfiler, respectively. Finally, peaks were intersected between ChIP-seq and ATAC-seq experiments and further intersected with RNA-seq data.
 
 <p align="center">
-  <img src="images/ChIP-seq.png" width="300" height="400" alt="Alt Text">
+  <img src="images/workflow.png" width="300" height="400" alt="Alt Text">
 </p>
+
+## REFERENCES
+1. Foulkes WD, Smith IE, Reis-Filho JS. Triple-negative breast cancer. New England journal of medicine. 2010 Nov 11;363(20):1938-48.
+2. Zhao J, Liu C, Zhao Z. ARID1A: a potential prognostic factor for breast cancer. Tumor Biology. 2014 May;35:4813-9.
+3. Park PJ. ChIP–seq: advantages and challenges of a maturing technology. Nature reviews genetics. 2009 Oct;10(10):669-80.
+4. Yan F, Powell DR, Curtis DJ, Wong NC. From reads to insight: a hitchhiker’s guide to ATAC-seq data analysis. Genome biology. 2020 Dec;21:1-6.
+
