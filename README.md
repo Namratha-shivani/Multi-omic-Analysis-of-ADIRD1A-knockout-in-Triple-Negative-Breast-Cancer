@@ -1,5 +1,4 @@
-# Multi-omic Analysis of ADIR1A knockout on Triple Negative Breast Cancer
-Project report (report.md)
+# Multi-omic Analysis of ADIR1A knockout on Triple Negative Breast Cancer (Report: report.md)
 
 Tripe negative breast cancer (TNBC) is defined as the tumor that lacks the receptor expression of estrogen, progesterone and a protein HER2 expression [1]. The AT-rich interactive domain 1A (ARID1A) is the region that is mostly depleted in many human cancers. It encodes protein BAF250a and it is observed to be downregulated in tumor tissues. ARID1A plays and essential role in tumor suppression by negative regulation of cell-cycle progression and identifying the target genes to mediate the tumor suppression [2].
 
