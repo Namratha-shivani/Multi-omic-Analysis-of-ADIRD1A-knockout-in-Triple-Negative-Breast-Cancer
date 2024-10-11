@@ -2,6 +2,12 @@
 
 module load samtools
 
+
+# Create necessary directories if they don't exist
+mkdir -p H3K4me1
+mkdir -p H3K4me1/alignment_stats
+
+
 array=(
 SRR25255815
 SRR25255816
