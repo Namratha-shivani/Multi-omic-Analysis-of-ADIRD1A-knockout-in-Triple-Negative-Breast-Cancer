@@ -3,6 +3,7 @@
 # load SRR toolkit
 
 module load SRAtoolkit
+module load fastqc
 
 # array of SRA samples to be fetched for analysis
 
@@ -27,3 +28,6 @@ do
 
 done 
 
+# Performing Quality control using FASTQC
+
+fastqc ChIP_seq/data/*.fastq.gz -o ChIP_seq/fastqc/
